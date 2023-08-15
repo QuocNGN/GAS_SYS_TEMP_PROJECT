@@ -22,9 +22,9 @@ DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal_I2C lcd(0x27, 16, 2);  // Địa chỉ I2C và kích thước màn hình
 
 
-const char *SSID = "Quoc Anh";
-const char *PASSWORD = "25032014";
-const char *URL = "http://192.168.1.229:8800/sensor";
+const char *SSID = "ABC";
+const char *PASSWORD = "XYZ";
+const char *URL = "http://199.999.1.99:8800/sensor";
 
 ESP8266WiFiMulti WiFiMulti;
 WiFiClient client;
