@@ -24,10 +24,10 @@ BD
 --------------------------
 SETUP DB with the **commands**
 **Commands** use:
+$ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_pass';
 ```
 create schema your_db
 $ SELECT * FROM cntt2.sensorgas_temp;
-$ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY your_pass;
 $ truncate sensorgas_temp;
 ```
 <img src="DB_IMG.png"/>
