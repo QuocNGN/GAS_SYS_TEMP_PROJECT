@@ -18,10 +18,11 @@ $ npm install styled-components
 $ npm start
 ```
 <img src="FE_IMG.png"/>
-SETUP DB with the **commands**
+
 </br>
 DB (mySQL)
 --------------------------
+SETUP DB with the **commands**
 **Commands** use:
 ```
 create schema `your_db`
