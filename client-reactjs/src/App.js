@@ -16,9 +16,7 @@ function App() {
 
 
   useEffect(() => {
-    // axios.get("http://192.168.1.9:8800/sensor").then((response) => {
-    axios.get("http://192.168.1.229:8800/sensor").then((response) => {
-      // axios.get("http://192.168.1.12:8800/sensor").then((response) => {
+    axios.get("http://199.999.1.999:8800/sensor").then((response) => {
       const data = response.data;
       setItems(data);
     });
