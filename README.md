@@ -1,4 +1,4 @@
-![image](https://github.com/QuocNGN/GAS_SYS_TEMP_PROJECT/assets/132836685/a0628760-a7a3-48f7-8cbe-ec4219ba0caa)# GAS_SYS_TEMP_PROJECT
+GAS_SYS_TEMP_PROJECT
 </br>
 BE
 --------------------------
