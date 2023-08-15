@@ -26,7 +26,6 @@ SETUP DB with the **commands**
 </br>
 DB
 --------------------------
-
 ```
 create schema your_db
 $ SELECT * FROM cntt2.sensorgas_temp;
