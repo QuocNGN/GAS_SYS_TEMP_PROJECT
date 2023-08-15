@@ -18,12 +18,13 @@ $ npm install styled-components
 $ npm start
 ```
 <img src="FE_IMG.png"/>
+SETUP DB with the **commands**
 </br>
 DB (mySQL)
 --------------------------
 **Commands** use:
 ```
-create schema ``your_db``
+create schema `your_db`
 $ SELECT * FROM cntt2.sensorgas_temp;
 $ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_pass';
 $ truncate sensorgas_temp;
