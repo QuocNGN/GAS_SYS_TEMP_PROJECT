@@ -9,6 +9,7 @@ or
 $ npm start (bellow configure)
 ```
 ``npm start`` to configure the **commands**, go to the file ``package.json``, look at the ``"scripts"`` section and add ``"start": "nodemon sensor.js"``.
+</br>
 FE
 --------------------------
 ```
@@ -17,6 +18,7 @@ $ npm install styled-components
 $ npm start
 ```
 <img src="FE_IMG.png"/>
+</br>
 DB (mySQL)
 --------------------------
 **Commands** use:
