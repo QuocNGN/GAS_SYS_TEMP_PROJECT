@@ -8,7 +8,7 @@ $ npx nodemon sensorGasTemp.js
 or
 $ npm start (bellow configure)
 ```
-``npm start`` to configure the **commands**, go to the file ``package.json``, look at the ``"scripts"`` section and add ``nodemon sensorGasTemp.js``.
+``npm start`` to configure the **commands**, go to the file ``package.json``, look at the ``"scripts"`` section and add ``"start": "nodemon sensor.js"``.
 FE
 --------------------------
 ```
